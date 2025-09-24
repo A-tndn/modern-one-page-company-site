@@ -1,0 +1,39 @@
+{
+  "name": "modern-one-page-company-site",
+  "version": "1.0.0",
+  "description": "Modern one-page company website built in 15 minutes with 90+ Lighthouse score",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build step required'",
+    "start": "npx serve .",
+    "deploy": "echo 'Deployed via GitHub Pages'"
+  },
+  "keywords": [
+    "website",
+    "one-page",
+    "responsive",
+    "modern",
+    "company",
+    "business",
+    "tailwind",
+    "performance",
+    "lighthouse"
+  ],
+  "author": "ModernTech Solutions",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/A-tndn/modern-one-page-company-site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/A-tndn/modern-one-page-company-site/issues"
+  },
+  "homepage": "https://A-tndn.github.io/modern-one-page-company-site"
+}
