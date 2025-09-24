@@ -7,7 +7,7 @@
 
 > **🌐 [View Live Demo](https://A-tndn.github.io/modern-one-page-company-site)**
 
-A modern, clean, and professional one-page company website built with performance and accessibility in mind. Completed in **15 minutes** with **90+ Google Lighthouse score**.
+A modern, clean, and professional one-page company website built with performance and accessibility in mind. **Completed in 15 minutes** with **90+ Google Lighthouse score**.
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ modern-one-page-company-site/
 │   └── styles.css      # Custom CSS styles
 ├── js/
 │   └── main.js         # JavaScript functionality
-├── README.md           # Project documentation
+├── README.md           # This documentation
 ├── vercel.json         # Vercel deployment config
 ├── package.json        # Project metadata
 └── .gitignore          # Git ignore rules
@@ -62,7 +62,7 @@ modern-one-page-company-site/
 - Eye-catching gradient background
 - Clear value proposition
 - Call-to-action buttons
-- Responsive hero image
+- Responsive hero image placeholder
 
 ### Services Section
 - Grid layout with hover effects
@@ -73,8 +73,8 @@ modern-one-page-company-site/
 ### Contact Section
 - Multiple contact methods
 - Interactive contact form
-- Embedded map option
 - Professional layout
+- Accessible form elements
 
 ## 📱 Responsive Design
 
@@ -90,7 +90,7 @@ Built with mobile-first approach:
 - **Font Loading**: Optimized with `font-display: swap`
 - **Image Optimization**: Lazy loading and proper formats
 - **JavaScript**: Minimal, performance-focused code
-- **Caching**: Optimized cache headers
+- **Caching**: Optimized cache headers via Vercel config
 
 ## ♿ Accessibility Features
 
@@ -114,7 +114,7 @@ Built with mobile-first approach:
 ## 🚀 Quick Start
 
 ### View Online
-Simply visit: **[https://A-tndn.github.io/modern-one-page-company-site](https://A-tndn.github.io/modern-one-page-company-site)**
+**[https://A-tndn.github.io/modern-one-page-company-site](https://A-tndn.github.io/modern-one-page-company-site)**
 
 ### Local Development
 
@@ -133,7 +133,7 @@ Simply visit: **[https://A-tndn.github.io/modern-one-page-company-site](https://
 
 3. **Make changes**
    - Edit `index.html` for content
-   - Modify `css/styles.css` for styling
+   - Modify `css/styles.css` for additional styling
    - Update `js/main.js` for functionality
 
 ## 🎨 Customization Guide
@@ -200,32 +200,9 @@ lighthouse https://A-tndn.github.io/modern-one-page-company-site --view
 - ✅ Edge 88+
 - ✅ Mobile browsers
 
-## 📈 Analytics Integration
-
-To add Google Analytics:
-
-1. Get your GA4 measurement ID
-2. Add the tracking code to `<head>` in `index.html`
-3. Configure events for contact form submissions
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Tailwind CSS** for utility-first styling
-- **Heroicons** for beautiful SVG icons
-- **Google Fonts** for typography
-- **GitHub Pages** for free hosting
 
 ## 📞 Contact
 
